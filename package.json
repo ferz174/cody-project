@@ -1,0 +1,26 @@
+{
+  "name": "cody-project",
+  "version": "1.0.0",
+  "description": "new cody cms with postgres db, locale_ru and rebuild",
+  "main": "index.js",
+  "dependencies": {
+    "cody": "^3.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferz174/cody-project.git"
+  },
+  "keywords": [
+    "cody"
+  ],
+  "author": "ferz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferz174/cody-project/issues"
+  },
+  "homepage": "https://github.com/ferz174/cody-project#readme"
+}
